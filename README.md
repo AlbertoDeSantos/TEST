@@ -17,7 +17,10 @@ Lista:
 · MENOS
 
 
-```Todo esto es código.```
+```
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 
 
 ---
