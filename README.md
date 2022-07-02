@@ -4,4 +4,9 @@
 ⋅⋅* Sublista (1)
 ⋅⋅* Sublista (2)
 4. ITEM lista (4)
-5. __italica__
+5. __negrita__
+* Lista no ordenada
+* Lista 2
+... INDENTADO
+.. MENOS
+. MENOS
