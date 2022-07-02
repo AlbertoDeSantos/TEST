@@ -32,6 +32,14 @@ Inline-style:
 [Link](https://ejemplo.com/ "Título opcional del enlace")
 
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
 
 [^1]: Aquí encuentras el texto de la nota al pie de página.
 [^2]: **Las notas de pie de página** pueden *formatearse* también.
