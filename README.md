@@ -5,5 +5,5 @@
 
 *italica*
 **negrita**
-**negrita + _italica_**
+**negrita _negritaItalica_**
 ~~comillas~~
