@@ -19,6 +19,6 @@ Lista:
 ·· MENOS
 · MENOS
 
-``Todo esto es `código`.``
+```Todo esto es código.```
 ---
 [Link](https://ejemplo.com/ "Título opcional del enlace")
