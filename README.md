@@ -42,5 +42,6 @@ Inline-style:
 
 
 
-[^1]: Aquí encuentras el texto de la nota al pie de página.
-[^2]: **Las notas de pie de página** pueden *formatearse* también.
+[^1]: TE
+[^2]: Aquí encuentras el texto de la nota al pie de página.
+[^3]: **Las notas de pie de página** pueden *formatearse* también.
