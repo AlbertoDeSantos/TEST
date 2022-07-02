@@ -16,6 +16,7 @@ Lista:
 
 · MENOS
 
+A continuación se muestra un [Link](https://ejemplo.com/ "Título opcional del enlace")
 
 ```JavaScript
 var s = "JavaScript syntax highlighting";
