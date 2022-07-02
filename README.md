@@ -7,3 +7,9 @@
 **negrita**
 **negrita _negritaItalica_**
 ~~comillas~~
+
+1. ITEM lista
+2. ITEM lista (2)
+1. ITEM lista (3)
+--1. Sublista (1)
+4. ITEM lista (4)
