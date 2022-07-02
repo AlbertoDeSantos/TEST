@@ -1,8 +1,7 @@
-Encabezado
-=
+[ ] A
+[x] B
+[ ] C
 
-Subencabezado
--
 
 1. ITEM lista
 2. ITEM lista (2)
