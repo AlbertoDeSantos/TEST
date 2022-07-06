@@ -1,8 +1,8 @@
 Lista:
 
-[ ] A
-[ ] B
-[ ] C
+- [ ] A
+- [X] B
+- [ ] C
 
 
 1. ITEM lista (3)
